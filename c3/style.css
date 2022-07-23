@@ -1,0 +1,15 @@
+
+.italic {
+    font-style: italic;
+}
+
+.box {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+}
+
+.container {
+    height: 100vh;
+}
